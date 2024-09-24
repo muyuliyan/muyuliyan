@@ -3,7 +3,7 @@
 ## 📫 How to reach me: 1468256361@qq.com
 ##    CSDN ID:2403_86007563
 markdown
-![It's one of my favorite character](微信图片_20240923082801.jpg)
+![It's one of my favorite character]It's one of my favorite character(微信图片_20240923082801.jpg)
 <!--
 **muyuliyan/muyuliyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
