@@ -7,8 +7,7 @@ markdown
 ![It's one of my favorite character](微信图片_20240923082801.jpg)
 ## MY LANGUAGE
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muyuliyan)](https://github.com/muyuliyan/github-readme-stats)
-ranking_index = (byte_count ^ size_weight) * (repo_count ^ count_weight)
-size_weight=1count_weight=0 &size_weight=1&count_weight=0
+
 <!--
 **muyuliyan/muyuliyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
