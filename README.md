@@ -5,7 +5,7 @@
 markdown
 ## It's one of my favorite character!
 ![It's one of my favorite character](微信图片_20240923082801.jpg)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muyuliyan&show_icons=true&theme=dark)
 
 ## MY LANGUAGE
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muyuliyan)](https://github.com/muyuliyan/github-readme-stats)
