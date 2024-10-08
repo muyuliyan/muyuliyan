@@ -2,9 +2,13 @@
 ## 🌱 I’m currently learning c++
 ## 📫 How to reach me: 1468256361@qq.com
 ##    CSDN ID:2403_86007563
-markdown
-## It's one of my favorite character!
-![It's one of my favorite character](微信图片_20240923082801.jpg)
+//markdown
+//## It's one of my favorite character!
+//![It's one of my favorite character](微信图片_20240923082801.jpg)
+<div style="background-image: url('https://your-image-url.jpg'); height: 100vh; width: 100%; background-size: cover; background-position: center;">
+    <!-- Your content here -->
+</div>
+
 ## MY LANGUAGE
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muyuliyan)](https://github.com/muyuliyan/github-readme-stats)
 
