@@ -12,7 +12,7 @@
 ### - Languages and Tools...
 
 <p align="center">
-### Languages and Tools 🛠
+Languages and Tools 🛠
 
 ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
