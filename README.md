@@ -32,8 +32,11 @@ Languages and Tools 🛠
 ![Rust](https://img.shields.io/badge/-Rust-%23000000?style=flat-square&logo=rust&logoColor=white)
   <!-- 添加更多图标 -->
 </p>
-
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muyuliyan/muyuliyan/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muyuliyan/muyuliyan/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/muyuliyan/muyuliyan/output/github-contribution-grid-snake.svg">
+</picture>
 - 🌱 I’m currently learning c++
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
