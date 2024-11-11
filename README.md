@@ -4,7 +4,7 @@
 ##    CSDN ID:2403_86007563
 
 ## It's one of my favorite character!
-![It's one of my favorite character](微信图片_20240923082801.jpg)
+![It's one of my favorite character][![pAc8QsK.jpg](https://s21.ax1x.com/2024/11/11/pAc8QsK.jpg)](https://imgse.com/i/pAc8QsK)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muyuliyan&show_icons=true&theme=dark)
 
 ## MY LANGUAGE
