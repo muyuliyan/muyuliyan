@@ -3,8 +3,8 @@
 ## 📫 How to reach me: 1468256361@qq.com
 ##    CSDN ID:2403_86007563
 
-## It's one of my favorite character!
-![It's one of my favorite character][![pAc8QsK.jpg](https://s21.ax1x.com/2024/11/11/pAc8QsK.jpg)](https://imgse.com/i/pAc8QsK)
+## &#x1F609;It's one of my favorite character!
+[![pAc8QsK.jpg](https://s21.ax1x.com/2024/11/11/pAc8QsK.jpg)](https://imgse.com/i/pAc8QsK)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muyuliyan&show_icons=true&theme=dark)
 
 ## MY LANGUAGE
@@ -37,7 +37,7 @@ Languages and Tools 🛠
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muyuliyan/muyuliyan/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/muyuliyan/muyuliyan/output/github-contribution-grid-snake.svg">
 </picture>
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
