@@ -5,11 +5,21 @@
 
 ## &#x1F609;It's one of my favorite character!
 [![pAc8QsK.jpg](https://s21.ax1x.com/2024/11/11/pAc8QsK.jpg)](https://imgse.com/i/pAc8QsK)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muyuliyan&show_icons=true&theme=dark)
+## My States And Languages
+<hr>
+<p align="center">
+<img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats...</b></i><br>
+<img src="https://github-readme-stats.vercel.app/api?username=muyuliyan&count_private=true&show_icons=true&theme=great-gatsby" alt="GitHub Status"/>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=muyuliyan&show_icons=true&layout=compact&theme=great-gatsby" alt="Most Used Languages">
+</p>
 
-## MY LANGUAGE
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muyuliyan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-### - Languages and Tools...
+<hr>
+
+<p align="center"> 
+  <i><b>Profile Visitor Count...</b></i><br>
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif"  alt=""/><br>
+  <img src="https://profile-counter.glitch.me/lostgirljourney/count.svg"  alt=""/>
+</p>
 
 <p align="center">
 Languages and Tools 🛠
