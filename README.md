@@ -1,6 +1,6 @@
 ## Hi there 👋I'm muli
-## 🌱 I’m currently learning c++
-## 📫 How to reach me: 1468256361@qq.com
+## 🌱 I’m currently learning verilog and preparing for National College Student Operating System Competition in China
+## 📫 How to reach me: 1468256361@qq.com or liyangyan314@gmail.com
 ##    CSDN ID:2403_86007563
 
 ## &#x1F609;It's one of my favorite character!
@@ -26,6 +26,7 @@ Languages and Tools 🛠
   
 ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
 ![C++](http://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=ffffff)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=ffffff)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![Rust](https://img.shields.io/badge/-Rust-%23000000?style=flat-square&logo=rust&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
