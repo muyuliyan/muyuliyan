@@ -2,6 +2,7 @@
 ## 🌱 I’m currently learning verilog and preparing for National College Student Operating System Competition in China
 ## 📫 How to reach me: 1468256361@qq.com or liyangyan314@gmail.com
 ##    CSDN ID:2403_86007563
+<h1 align="center">
 ✨ You can treat life as playing game, but don't be played by it ✨
 
 ## &#x1F609;It's one of my favorite character!
