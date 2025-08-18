@@ -1,0 +1,55 @@
+# 图像修复任务配置文件
+task: "inpainting"
+version: "1.0"
+description: "Image inpainting configuration for LaMa"
+
+# 模型配置
+model:
+  name: "LaMa"
+  checkpoint_path: "models/inpainting/lama_model.pth"
+  
+  # 模型参数
+  parameters:
+    architecture: "lama_fourier"
+    ffc_kernel_size: 3
+    ffc_activation: "lrelu"
+    
+# 输入配置
+input:
+  image_path: "data/input/"
+  mask_path: "data/input/masks/"
+  supported_formats: [".jpg", ".jpeg", ".png", ".bmp"]
+  
+  # 掩膜处理
+  mask_processing:
+    mask_threshold: 127
+    dilate_kernel: 5
+    smooth_mask: true
+    
+# 输出配置
+output:
+  save_path: "data/output/inpainting/"
+  format: "png"
+  quality: 95
+  
+  # 后处理
+  postprocessing:
+    blend_boundary: true
+    blend_width: 10
+    color_correction: true
+    
+# 处理配置
+processing:
+  device: "cuda"
+  batch_size: 1
+  use_fp16: true
+  
+# 验证配置
+validation:
+  enable: true
+  metrics: ["PSNR", "SSIM", "LPIPS"]
+  
+# 日志配置
+logging:
+  level: "INFO"
+  save_path: "logs/inpainting.log"
