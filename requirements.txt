@@ -1,0 +1,37 @@
+# 深度学习框架
+torch>=1.12.0
+torchvision>=0.13.0
+torchaudio>=0.12.0
+
+# 图像处理
+opencv-python>=4.6.0
+Pillow>=9.0.0
+scikit-image>=0.19.0
+imageio>=2.19.0
+albumentations>=1.2.0
+
+# 数值计算
+numpy>=1.21.0
+scipy>=1.7.0
+matplotlib>=3.5.0
+
+# 配置和工具
+PyYAML>=6.0
+tqdm>=4.64.0
+click>=8.0.0
+colorama>=0.4.5
+
+# 评估指标
+lpips>=0.1.4
+pytorch-fid>=0.3.0
+pyiqa>=0.1.7
+
+# 可视化和日志
+tensorboard>=2.9.0
+wandb>=0.12.0
+seaborn>=0.11.0
+
+# 实用工具
+h5py>=3.7.0
+lmdb>=1.3.0
+requests>=2.28.0
