@@ -1,5 +1,5 @@
 ## Hi there 👋I'm muli
-## 🌱 Supplementing basic ablities~~~
+## 🌱 Learning cs143 and OS
 ## 📫 How to reach me: 1468256361@qq.com or liyangyan314@gmail.com
 ##    CSDN ID:2403_86007563
 <h1 align="center">
